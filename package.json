@@ -1,0 +1,22 @@
+{
+  "name": "insomnia-plugin-json-comments",
+  "version": "1.0.0",
+  "description": "Allow comments in your JSON request",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteobaldelli/insomnia-plugin-JSON-comments.git"
+  },
+  "author": "Matteo Baldelli",
+  "license": "MIT",
+  "private": false,
+  "insomnia": {
+    "name": "insomnia-plugin-JSON-comments",
+    "displayName": "JSON Comments",
+    "description": "Allow comments in your JSON request",
+    "publisher": {
+      "name": "Matteo Baldelli"
+    },
+    "unlisted": false
+  }
+}
